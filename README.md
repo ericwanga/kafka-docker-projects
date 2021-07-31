@@ -1,3 +1,5 @@
+Add more updates to this readme.md file on new branch 'change-more-readme'
+
 <<<<<<< HEAD
 [![Actions Status](https://github.com/conduktor/kafka-stack-docker-compose/workflows/CI/badge.svg)](https://github.com/conduktor/kafka-stack-docker-compose/actions)
 
