@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 [![Actions Status](https://github.com/conduktor/kafka-stack-docker-compose/workflows/CI/badge.svg)](https://github.com/conduktor/kafka-stack-docker-compose/actions)
 
 # An open-source project by   [![Conduktor.io](https://www.conduktor.io/uploads/conduktor.svg)](https://conduktor.io/)
@@ -214,4 +214,3 @@ For example, if the IP of your machine is `50.10.2.3`, follow the sample mapping
 ```
 =======
 # kafka-docker-projects
->>>>>>> 676ad7304ba2052a4ebcd001845f53c5324654bc
