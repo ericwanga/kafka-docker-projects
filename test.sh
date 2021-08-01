@@ -14,7 +14,7 @@ f () {
     # ${BASH_LINENO[0]} contains the line number in the script of that command
     # exit the script or return to try again, etc.
     # creating stack... 
-    # create a new conflicts here ...
+    # create a new conflicts here ... !!!
     docker-compose -f $file down
     exit $errcode  # or use some other value or do return instead
 }
