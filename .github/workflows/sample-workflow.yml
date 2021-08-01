@@ -33,7 +33,7 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      - run: echo "6 This job's status is ${{ job.status }}."|
+      - run: echo "6 This job's status is ${{ job.status }}."
 #       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
 #       - uses: actions/checkout@v2
 
