@@ -13,7 +13,8 @@ f () {
     # $BASH_COMMAND contains the command that was being executed at the time of the trap
     # ${BASH_LINENO[0]} contains the line number in the script of that command
     # exit the script or return to try again, etc.
-    # creating stack...
+    # creating stack... 
+    # make some conflicts here ...
     docker-compose -f $file down
     exit $errcode  # or use some other value or do return instead
 }
